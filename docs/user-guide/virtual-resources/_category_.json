@@ -1,0 +1,10 @@
+{
+    "position": 2,
+    "label": "Virtual Resources",
+    "collapsible": true,
+    "collapsed": false,
+    "link": {
+      "type": "generated-index",
+      "title": "Virtual Resources"
+    }
+}
