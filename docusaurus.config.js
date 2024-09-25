@@ -9,11 +9,11 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Stackbill Documentation',
-  tagline: 'Stackbill Documentation',
+  tagline: 'Your Comprehensive User Guide',
   favicon: 'logo_icon',
 
   // Set the production url of your site here
-  url: 'https://docs.stackbill.com',
+  url: 'https://www.stackbill.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -100,6 +100,20 @@ const config = {
           {
             type: "search",
             position: "right",
+          },
+          {
+            label: 'Support',
+            position: 'right', 
+            items: [
+              {
+                label: 'Help Center',
+                href: 'https://clients.stackbill.com', 
+              },
+              {
+                label: 'Customer Support',
+                href: 'https://www.stackbill.com',
+              }
+            ],
           },
           {
             href: 'https://github.com/stackbill/docs-public',
