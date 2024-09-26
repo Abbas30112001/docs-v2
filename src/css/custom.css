@@ -37,3 +37,44 @@ html[data-theme=dark] {
   --admonition-link-caution-c: var(--c-orange-90);
   --admonition-link-danger-c: var(--c-red-90);
 }
+
+.navbar__item.navbar__link {
+  font-size: 14px;
+}
+
+.navbar__link--active {
+  border-bottom: 2px solid !important;
+}
+
+.theme-doc-sidebar-menu.menu__list {
+  font-size: 15px;
+}
+
+.menu__link.menu__link--sublist {
+  color: black;
+}
+
+/* Typography Styles */
+h1 { 
+  font-size: 30px;
+} 
+
+h2 { 
+  font-size: 27px;
+} 
+
+h3 { 
+  font-size: 25px;
+} 
+
+h4 { 
+  font-size: 23px; 
+} 
+
+h5 { 
+ font-size: 21px; 
+} 
+
+h6 { 
+  font-size: 19px; 
+}
