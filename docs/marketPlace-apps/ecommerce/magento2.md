@@ -66,7 +66,7 @@ When you connect to your MAGENTO 2 Instance via SSH for the 1st time, you’ll b
 To cancel setup, press Ctrl+C.  This script will run again on your next login:
 Enter the domain name for your new Magento2 site:
 (ex. example.org or test.example.org) do not include www or http/s:
-Domain/Subdomain name:
+Domain/sub-domain name:
 ~~~
 
 Further, you will be asked to enter the required data to create a new admin account for Magento 2.

@@ -1,6 +1,7 @@
 ---
 title: Security Group Firewall
 sidebar_label: Security Group Firewall
+sidebar_position: 3
 ---
 
 
@@ -19,25 +20,25 @@ sidebar_label: Security Group Firewall
 - Click on the **Network** dropdown button below the compute icon, Which is available in the top left corner. from the dropdown, Click on **Security Groups** option.
 
 
-<img src="/img/securitygroup/securitygroups1-stackbillCloudManagementPortal.png" width="100%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/security-group-firewall/stackbill-cloud-management-portal-security-groups.png" width="100%" />
 
 - Security groups screen appears
 
-<img src="/img/securitygroup/securitygroups2-stackbillCloudManagementPortal.png" width="100%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/security-group-firewall/stackbill-cloud-management-portal-add-security-groups.png" width="100%" />
 
 - At the right side of the panel the user can able to see a button called **Add**, click on it.
 
-<img src="/img/securitygroup/securitygroups3-stackbillCloudManagementPortal.png" width="90%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/security-group-firewall/stackbill-cloud-management-portal-add-security-groups-details.png" width="90%" />
 
 - Enter the name and give a short description 
 - And select the status.
 - Finally, Click on **Add** button.
 
-<img src="/img/securitygroup/securitygroups4-stackbillCloudManagementPortal.png" width="100%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/security-group-firewall/stackbill-cloud-management-portal-security-groups-created-successfully.png" width="100%" />
 
 - Now the security group has been created successfully.
 
-<img src="/img/securitygroup/securitygroups5-stackbillCloudManagementPortal.png" width="100%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/security-group-firewall/stackbill-cloud-management-portal-security-groups-manage.png" width="100%" />
 
 - In the **Action** section we can **edit,manage,and delete** the **security group.**
 

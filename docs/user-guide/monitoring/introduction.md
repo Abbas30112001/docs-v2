@@ -1,6 +1,7 @@
 ---
 title: Introduction
 sidebar_label: Introduction
+sidebar_position: 1
 ---
 
 **StackBill Monitoring** refers to the **process of tracking and measuring the performance and health of cloud-based resources, such as virtual machines, databases, applications, and services.** **Monitoring** is essential to ensure that cloud resources are available, responsive, and performing optimally, and to identify and resolve any issues or failures that may impact the availability or performance of the services provided to users.

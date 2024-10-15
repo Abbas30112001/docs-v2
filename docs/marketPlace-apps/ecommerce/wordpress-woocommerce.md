@@ -66,7 +66,7 @@ When you connect to your WordPress-WooCommerce Instance via SSH for the 1st time
 To cancel setup, press Ctrl+C.  This script will run again on your next login:
 Enter the domain name for your new WordPress site:
 (ex. example.org or test.example.org) do not include www or http/s:
-Domain/Subdomain name: 
+Domain/sub-domain name: 
 ```
 
 Domain's A record must be pointed to the Instance's IPADDRESS.

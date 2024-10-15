@@ -1,6 +1,7 @@
 ---
 title: What is Affinity Group
 sidebar_label: What is Affinity Group
+sidebar_position: 1
 ---
 
 ### Affinity group On StackBill Cloud Management Portal.

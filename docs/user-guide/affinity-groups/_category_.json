@@ -1,0 +1,10 @@
+{
+    "position": 7,
+    "label": "Affinity Group",
+    "collapsible": true,
+    "collapsed": false,
+    "link": {
+      "type": "generated-index",
+      "title": "Getting Started"
+    }
+}

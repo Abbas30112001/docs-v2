@@ -1,0 +1,10 @@
+{
+    "position": 6,
+    "label": "SSH Key Manager",
+    "collapsible": true,
+    "collapsed": false,
+    "link": {
+      "type": "generated-index",
+      "title": "Getting Started"
+    }
+}

@@ -8,12 +8,6 @@ sidebar_position: 2
 # Welcome to Stackbill Documentation
 
 
-:::danger
-
-Some **content** with _Markdown_ `syntax`. Check [this `api`](#).
-
-:::
-
 [**StackBill**](https://www.youtube.com/watch?v=nyV8oE3dfXs&t=1s) portal offers a simple and intuitive web-based user interface, [**StackBill CMP**](https://www.stackbill.com/stackbill-overview.html#compute) allows you to
 
 - **Manage to compute resources** - Easily access and manage your virtual instances, Load Balancer, and Kubernetes.
@@ -30,36 +24,35 @@ The **StackBill CMP** **account sign-up page** allows you to create **a new Stac
 
 - **You can create an account on Stackbill CMP by following the instructions below.**
 
-<img src="/img/gettingstarted/Accountsignup1-StackBillCloudManagementPortal.png" width="70%" />
-
-
+<img alt="Stacbill Cloud Management Portal" src="/user-guide/getting-started/account-signup/stackbill-cloud-management-portal-create-account.png" width="70%" />
+ 
 - Click on the option **create an account.**
 - The Account creation page that appears on the screen.
 
-<img src="/img/gettingstarted/Accountsignup2-StackBillCloudManagementportal.png" width="60%" />
+<img alt="Stacbill Cloud Management Portal" src="/user-guide/getting-started/account-signup/stackbill-cloud-management-portal-data-fill-form.png" width="60%" />
 
 
 - Fill out the form with the following information: **Email, Country & Code, Mobile Number, and Password.**
 - Click on the **Register** Button.
 - StackBill sent a Welcome Email to the registered email address.
 
-<img src="/img/gettingstarted/Accountsignup3-StackBillCloudManagementPortal.png" width="90%" />
+<img alt="Stacbill Cloud Management Portal" src="/user-guide/getting-started/account-signup/stackbill-cloud-management-portal-data-mail-validation.png" width="90%" />
 
 - To **activate** your **StackBill account**, click the **Activate and Setup your Account** button in the welcome email.
 
-<img src="/img/gettingstarted/Accountsignu4-StackBillCloudManagementportal.png" width="60%" />
+<img alt="Stacbill Cloud Management Portal" src="/user-guide/getting-started/account-signup/stackbill-cloud-management-portal-data-form.png" width="60%" />
 
 
 - Enter the **necessary** details.
 - Click **Next** button.
 
-<img src="/img/gettingstarted/Accountsignup5-StackBillCloudManagementPortal.png" width="60%" />
+<img alt="Stacbill Cloud Management Portal" src="/user-guide/getting-started/account-signup/stackbill-cloud-management-portal-data-address-form.png" width="60%" />
 
 
 - Enter your Address details here.
 - And click the **Register** button.
 
-<img src="/img/gettingstarted/Accountsignup6-StackBillCloudManagementportal.png" width="60%" />
+<img alt="Stacbill Cloud Management Portal" src="/user-guide/getting-started/account-signup/stackbill-cloud-management-portal-account-creation.png" width="60%" />
 
 - Now the account is created successfully.
 - Enter your **email address** and **password** and click Login to explore **StackBill CMP**.
@@ -75,7 +68,7 @@ The **StackBill CMP** **account sign-up page** allows you to create **a new Stac
 
 - Once you access the URL, it will prompt you for email account and password.
 
-<img src="/img/gettingstarted/StackBill-Accountlogin1.png" width="60%" />
+<img alt="Stacbill Cloud Management Portal" src="/user-guide/getting-started/account-signup/stackbill-cloud-management-portal-user-login-page.png" width="60%" />
 
 
 - Provide your corresponding credentials and click on Login button.
@@ -89,20 +82,20 @@ You can retrieve your account if you forget your password with Stackbill CMP.
 
  - Access your **stackbill CMP** URL and click on the **forgotten password.**
 
-<img src="/img/gettingstarted/Forgotpassword1-StackBillCloudManagementPortal.png" width="60%" />
+<img alt="Stacbill Cloud Management Portal" src="/user-guide/getting-started/account-signup/stackbill-cloud-management-portal-forget-password.png" width="60%" />
 
  - Provide the **email address** that you used to create your account and click on the **Send-Email button.**
 
-<img src="/img/gettingstarted/Forgotpassword2-StackBillCloudManagementPortal.png" width="80%" />
+<img alt="Stacbill Cloud Management Portal" src="/user-guide/getting-started/account-signup/stackbill-cloud-management-portal-forget-password-email.png" width="80%" />
 
 
 - You will **receive a password reset link to your specified e-mail account.**
 
-<img src="/img/gettingstarted/Forgotpassword3-StackBillCloudManagementPortal.png" width="70%" />
+<img alt="Stacbill Cloud Management Portal" src="/user-guide/getting-started/account-signup/stackbill-cloud-management-portal-forget-password-confirmation.png" width="70%" />
 
 - Once you click the link, **a new password prompt will appear**. Enter the new password, then press the **"Submit"** button.
 
-<img src="/img/gettingstarted/Forgotpassword4-StackBillCloudManagementPortal.png" width="80%" />
+<img alt="Stacbill Cloud Management Portal" src="/user-guide/getting-started/account-signup/stackbill-cloud-management-portal-forget-password-login.png" width="80%" />
 
 - The password for the account has been successfully reset.
 

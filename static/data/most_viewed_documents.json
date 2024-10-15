@@ -1,7 +1,7 @@
 [
     {
         "text": "How to create Instance",
-        "link": "docs/virtualresources/Instance"
+        "link": "docs/virtual-resources/Instance"
     },
     {
         "text": "APPS - Marketplace",
@@ -9,15 +9,15 @@
     },
     {
         "text": "How to create kubernetes cluster",
-        "link": "docs/Kubernetes/Introduction"
+        "link": "docs/kubernetes/Introduction"
     },
     {
         "text": "How to enable monitoring",
-        "link": "docs/Monitoring/introduction"
+        "link": "docs/monitoring/introduction"
     },
     {
         "text": "Cloud Billing Solution",
-        "link": "docs/Billing/Overview#billing-system-in-CloudPortal-cloud-management-portal"
+        "link": "docs/billing/Overview#billing-system-in-CloudPortal-cloud-management-portal"
     },
     {
         "text": "SSH key from windows",
@@ -25,7 +25,7 @@
     },
     {
         "text": "Savings plan",
-        "link": "docs/virtualresources/Instance#savings-plans-in-CloudPortal-cmp"
+        "link": "docs/virtual-resources/Instance#savings-plans-in-CloudPortal-cmp"
     },
     {
         "text": "Adding Firewall",

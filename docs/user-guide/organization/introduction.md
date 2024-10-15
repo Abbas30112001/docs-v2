@@ -1,6 +1,7 @@
 ---
 title: Introduction
 sidebar_label: Introduction
+sidebar_position: 1
 ---
 
 In the organization section in **StackBill CMP** user can view the flow of the **user profile, user manager, RBAC, quota limit, maintenance, and my Activity.**

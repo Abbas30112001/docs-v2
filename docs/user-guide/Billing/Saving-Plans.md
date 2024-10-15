@@ -1,6 +1,7 @@
 ---
 title: Saving Plans
 sidebar_label: Saving Plans
+sidebar_position: 4
 ---
 
 ## Savings Plan in StackBill Cloud Management Portal
@@ -9,11 +10,11 @@ Savings Plans in [**StackBill**](https://www.stackbill.com/) are a flexible pric
 
 - Click on the **Billing** dropdown button below the **Monitoring** icon, Which is available in the top left corner. from the dropdown, Click on **Saving plan**.
 
-<img src="/img/Billing/1savingplan-stackbillcloudmanagementportal.png" width="90%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/billing/saving-plans/stackbill-cloud-management-portal-billing-saving-plan.png" width="90%" />
 
 - **Saving plan** screen appears.
 
-<img src="/img/Billing/2savingplan-stackbillcloudmanagementportal.png" width="90%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/billing/saving-plans/stackbill-cloud-management-portal-billing-saving-plan-summary.png" width="90%" />
 
 - **Active plan** - Here you can see how many **Reserved plans are in active.**
 - **savings** - **Saving option** allows users to see how much money they have saved in comparison to a normal plan.
@@ -22,11 +23,11 @@ Savings Plans in [**StackBill**](https://www.stackbill.com/) are a flexible pric
 - At the bottom of the page you can able to see an option called **Purchase Saving Plan.**
 - Click on it to **Purchase a Saving plan**.
 
-<img src="/img/Billing/3savingplan-stackbillcloudmanagementportal.png" width="90%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/billing/saving-plans/stackbill-cloud-management-portal-billing-saving-plan-reserved-offering.png" width="90%" />
 
 - Select the **Offering plan** as per the requirement.
 
-<img src="/img/Billing/4savingplan-stackbillcloudmanagementportal.png" width="90%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/billing/saving-plans/stackbill-cloud-management-portal-billing-saving-plan-save-plan.png" width="90%" />
 
 - **Reserved Offering** - In stackbill there are two types offering avilable they are **Standard**, and **Convertable**.
 - **Standard offering** - In the **standard offering**, users can only use the policy in the standard format and cannot upgrade or downgrade it.

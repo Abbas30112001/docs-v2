@@ -1,6 +1,7 @@
 ---
 title: Creating an Affinity Group
 sidebar_label: Creating an Affinity Group
+sidebar_position: 2
 ---
 
 **Affinity group** On **[StackBill Cloud Management Portal.](https://www.stackbill.com/)**
@@ -12,22 +13,22 @@ The following guide will help you to **affiniate instances** in the **Stackbill 
 -  The **virtual option** is displayed on the left side menu. To access the submenu, click on it.
 - Select the seventh option , which is named as **Affinity group**to affinate the instances.
 
-<img src="/img/virtualresources/Affinitygroup-StackBillCloudManagementPortal.png" width="80%" />
+<img alt="stackbill Cloud Management Portal" src="/user-guide/affinity-groups/creating-an-affinity-group/stackbill-cloud-management-portal-affinity-group.png" width="80%" />
 
 - Now the Affinity group option appears on the screen.
 
-<img src="/img/virtualresources/1Affinitygroup-StackBillCloudManagementPortal.png" width="90%" />
+<img alt="stackbill Cloud Management Portal" src="/user-guide/affinity-groups/creating-an-affinity-group/stackbill-cloud-management-portal-add.png" width="90%" />
 
 - Click on **Add** button.
 
-<img src="/img/virtualresources/3Affinitygroup-StackBillCloudManagementPortal.png" width="50%" />
+<img alt="stackbill Cloud Management Portal" src="/user-guide/affinity-groups/creating-an-affinity-group/stackbill-cloud-management-portal-affinity-type.png" width="50%" />
 
 - **Name** - Give a **name for the affinity group** you are creating.
 - **Description** - Short Notes about the affinity group.
 - **Type** - Here you wants to **select the type of the affinity**.
 - Finally click **Ok** button.
 
-<img src="/img/virtualresources/4Affinitygroup-StackBillCloudManagementPortal.png" width="100%" />
+<img alt="stackbill Cloud Management Portal" src="/user-guide/affinity-groups/creating-an-affinity-group/stackbill-cloud-management-portal-affinity-success.png" width="100%" />
 
 - Now the **Affinity group** has been created succesfully.
 

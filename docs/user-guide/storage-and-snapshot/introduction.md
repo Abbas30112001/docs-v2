@@ -1,6 +1,7 @@
 ---
 title: Introduction
 sidebar_label: Introduction
+sidebar_position: 1
 ---
 
 **Stackbill** provides block-level storage volumes to use with our virtual instances. These volumes can be attached to your virtual instance which makes its data and file system available for your nodes. If your instance is running on Linux or windows, then you can mount this volume and format the storage based on your file system.

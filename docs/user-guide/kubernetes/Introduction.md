@@ -11,7 +11,7 @@ sidebar_label: Introduction
 
 Kubernetes is an open-source container orchestration system for automating software deployment, scaling, and management.
 
-<img src="/img/Kubernetes/Kubernetes- StackBillCMP.png" width="60%" />
+<img alt="Stacbill Cloud Management Portal" src="/user-guide/kubernetes/creating-cluster/kubernetes-stackbill-cmp.png" width="60%" />
 
 - [Creating Cluster](/docs/plugins/kubernetes/Creatingcluster#creating-cluster-in-stackbill-cmp)
 - [Creating Identification](/docs/plugins/kubernetes/Creatingcluster#cluster-identification-in-stackbill-cmp)

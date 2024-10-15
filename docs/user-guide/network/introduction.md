@@ -1,6 +1,7 @@
 ---
 title: Introduction
 sidebar_label: Introduction
+sidebar_position: 1
 ---
 
 People using cloud infrastructure have a variety of needs and preferences when it comes to the networking services provided by the cloud. 

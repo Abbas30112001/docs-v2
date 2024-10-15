@@ -16,34 +16,36 @@ In this section, we will show the steps to access the KYC (Know Your Customer) f
 - Login into your cloud management portal.
 
 - Click on the company menu, under My organization select Profile.
-<img src="/img/KYC-Verification/KYC-User-01.jpg" width="80%" />
+<img alt="cmp for apache cloudstack" src="/user-guide/organization/kyc-verification/stackbill-company-profile.jpg" width="80%" />
 
 - Then click on KYC verification link.
-<img src="/img/KYC-Verification/KYC-User-02.jpg" width="80%" />
+<img alt="cmp for apache cloudstack" src="/user-guide/organization/kyc-verification/stackbill-kyc-verification.jpg" width="80%" />
 
 - The initial KYC screen will be similar as shown below.
-<img src="/img/KYC-Verification/KYC-User-03.jpg" width="80%" />
+<img alt="cmp for apache cloudstack" src="/user-guide/organization/kyc-verification/stackbill-kyc-screen.jpg" width="80%" />
 
 - User need to upload their document(s) based on the cloud provider requirement. In the below screen, user need to upload at least 1 of their document from the each category. 
-<img src="/img/KYC-Verification/KYC-User-04.jpg" width="80%" />
+<img alt="cmp for apache cloudstack" src="/user-guide/organization/kyc-verification/stackbill-id-and-address-proof.jpg" width="80%" />
 
 - Once you upload all the required documents, then click on the submit button.
-<img src="/img/KYC-Verification/KYC-User-05.jpg" width="80%" />
+<img alt="cmp for apache cloudstack" src="/user-guide/organization/kyc-verification/stackbill-kyc-done.jpg" width="80%" />
 
 - Additionally, under admin comments, you might receive remarks from your cloud provider regarding document status.
-<img src="/img/KYC-Verification/KYC-User-06.jpg" width="80%" />
+<img alt="cmp for apache cloudstack" src="/user-guide/organization/kyc-verification/stackbill-admin-comments.jpg" width="80%" />
 
 - Also, if you have any issues completing the KYC procedure, you can submit a ticket (or) immediately send an email to the admin support staff.
-<img src="/img/KYC-Verification/KYC-User-07.jpg" width="80%" />
+<img alt="cmp for apache cloudstack" src="/user-guide/organization/kyc-verification/stackbill-kyc-cretae-tickets.jpg" width="80%" />
 
 - Once you click on the submit button, you will receive an popup state that you document has been submitted successfully.
-<img src="/img/KYC-Verification/KYC-User-08.jpg" width="80%" />
+<img alt="cmp for apache cloudstack" src="/user-guide/organization/kyc-verification/stackbill-kyc-confirmation-message.jpg" width="80%" />
 
 - Once you've uploaded your document, the document status will be in **Pending** state.
-<img src="/img/KYC-Verification/KYC-User-09.jpg" width="80%" />
+<img alt="cmp for apache cloudstack" src="/user-guide/organization/kyc-verification/stackbill-kyc-pending.jpg" width="80%" />
 
 - Also, you will also received an email once the document has been submitted from the user portal.
-<img src="/img/KYC-Verification/KYC-User-10.jpg" width="80%" />
+<img alt="cmp for apache cloudstack" src="/user-guide/organization/kyc-verification/stackbill-kyc-document-successfull.jpg" width="80%" />
 
 - Once, your document has been approved, you will status will be changed to completed in the user portal.
-<img src="/img/KYC-Verification/KYC-User-11.jpg" width="80%" />
+<img alt="cmp for apache cloudstack" src="/user-guide/organization/kyc-verification/stackbill-kyc-document-accepted.jpg" width="80%" />
+
+

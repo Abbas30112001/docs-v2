@@ -1,6 +1,7 @@
 ---
 title: Introduction
 sidebar_label: Introduction
+sidebar_position: 1
 ---
 
 **Auto scaling** is a technique used to automatically adjust the computing resources (e.g., virtual machines, containers, etc.) allocated to an application based on its demand. The aim of auto scaling is to ensure that an application can handle varying levels of traffic and workload without experiencing performance issues or downtime.

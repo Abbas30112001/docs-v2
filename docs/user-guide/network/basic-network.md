@@ -1,6 +1,7 @@
 ---
 title: Basic Network
 sidebar_label: Basic Network
+sidebar_position: 2
 ---
 
 ## Network Manager in StackBill CMP
@@ -8,7 +9,7 @@ sidebar_label: Basic Network
 [**StackBill**](https://www.stackbill.com/) provides private networking, traffic filtering, and load balancing so you can secure and control your application traffic.
 
 
-<img src="/img/network/network-stackbillcloudmanagementportal.png" width="60%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/network-stackbillcloudmanagementportal.png" width="60%" />
 
 [**StackBill**](https://www.stackbill.com/) provides private networking, traffic filtering, and load balancing so you can secure and control your application traffic.
 
@@ -18,12 +19,12 @@ sidebar_label: Basic Network
 
 - Click on the **Network** dropdown button below the virtual resources icon, Which is available in the top left corner. from the dropdown, Click on **Basic Network**, to create a new network.
 
-<img src="/img/network/1l2network-stackbillcloudmanagementportal.png" width="80%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-cloud-management-portal-basic-network.png" width="80%" />
 
 - **Basic Network** screen appears.
 - At the right side of the panel the user can able to see a option called **ADD NETWORK**, Click on it.
 
-<img src="/img/network/2l2network-stackbillcloudmanagementportal.png" width="80%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-cloud-management-portal-add-l-two-network.png" width="80%" />
 
 - So once You click on the Add network button select the required network type as per the need.
 
@@ -31,7 +32,7 @@ sidebar_label: Basic Network
   **The following document shows the flow of the L2 network.**
 :::
 
-<img src="/img/network/3l2network-stackbillcloudmanagementportal.png" width="80%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-cloud-management-portal-create.png" width="80%" />
 
 - **Name** - Specify a **name** for the network.
 
@@ -39,7 +40,7 @@ sidebar_label: Basic Network
 - **Attach Network to Instance** - The user can **attach the network** to their **required instance** using this option. 
 - Finally,Click on the **Create** button.
 
-<img src="/img/network/4l2network-stackbillcloudmanagementportal.png" width="80%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-cloud-management-portal-create-network-successfully.png" width="80%" />
 
 -   Now the **L2  Network**  has been created successfully.
 
@@ -49,12 +50,12 @@ sidebar_label: Basic Network
 
 - Click on the **Network** dropdown button below the virtual resources icon, Which is available in the top left corner. from the dropdown, Click on **Basic Network**, to create a new network.
 
-<img src="/img/network/1l2network-stackbillcloudmanagementportal.png" width="90%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-cloud-management-portal-basic-network.png" width="90%" />
 
 - **Basic Network** screen appears.
 - At the right side of the panel the user can able to see a option called **ADD NETWORK**, Click on it.
 
-<img src="/img/network/1basicnetwork-stackbillcloudmanagementportal.png" width="100%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-cloud-management-portal-add-isolated-network.png" width="100%" />
 
 - Once You click on the **Add network** button select **isolated network** option to create a **isolated network.**
 
@@ -62,7 +63,7 @@ sidebar_label: Basic Network
   **The following document shows the flow of the Isolated network.**
 :::
 
-<img src="/img/network/3l2network-stackbillcloudmanagementportal.png" width="70%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-cloud-management-portal-create.png" width="70%" />
 
 - **Name** - Specify a **name** for the network.
 
@@ -70,7 +71,7 @@ sidebar_label: Basic Network
 - **Attach Network to Instance** - The user can **attach the network** to their **required instance** using this option. 
 - Finally,Click on the **Create** button.
 
-<img src="/img/network/4l2network-stackbillcloudmanagementportal.png" width="90%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-cloud-management-portal-create-network-successfully.png" width="90%" />
 
 :::success
 -   Now the **Isolated  Network**  has been created successfully.
@@ -80,22 +81,22 @@ sidebar_label: Basic Network
 
 ## Adding Network to Instance in StackBill CMP
 
-<img src="/img/virtualresources/Instancecreation-StackBillCloudManagementPortal1.png" width="80%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/Instancecreation-StackBillCloudManagementPortal1.png" width="80%" />
 
 -   Click on the  **Virtual Resources**  dropdown button below the dashboard icon, Which is available in the top left corner. from the dropdown, Click on  **Instance** option.
 
-<img src="/img/network/1add-networktoinstance-stackbillcloudmanagementportal.png" width="90%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-cloud-management-portal-vm-list.png" width="90%" />
 
 - Instance screen appears.
 - Click  on the particular instance.
 
-<img src="/img/network/2add-networktoinstance-stackbillcloudmanagementportal.png" width="90%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-cloud-management-portal-network-firewall.png" width="90%" />
 
 - Now the summary page of the instance appears, Select the **Network & Firewall** option on the summary.
 - Network & Firewall option appears.
 - At right side of the panel click on **Add network to the VM button**.
 
-<img src="/img/network/3add-networktoinstance-stackbillcloudmanagementportal.png" width="50%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-cloud-management-portal-add.png" width="50%" />
 
 - Select the Network and click **Add** button.
 
@@ -106,23 +107,23 @@ sidebar_label: Basic Network
 
 ## Adding security groups in StackBill CMP
 
-<img src="/img/securitygroups/1securitygroups-stackbillcloudmanagementportal.png" width="100%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-cloud-management-portal-security-groups.png" width="100%" />
 
 -   Click on the  **Network**  dropdown button below the compute icon, Which is available in the top left corner. from the dropdown, Click on  **Security groups**  option.
 
-<img src="/img/securitygroups/2securitygroups-stackbillcloudmanagementportal.png" width="100%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/add-security-groups-stackbill-cloud-management-portal.png" width="100%" />
 
 - **Security group** option appears on the screen.
 - At right side of the panel the user can able to see a option called **Add** , Click on it to **create a new security groups.**
 
-<img src="/img/securitygroups/3securitygroups-stackbillcloudmanagementportal.png" width="80%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-cloud-management-portal-security-group-add.png" width="80%" />
 
 - **Name** - Specify a **name** for the security group that has been creating.
 -  **Description** - Give a short notes about the security group.
 - **Status** - Specify IP version.
 - Finally, Click on **Add** button.
 
-<img src="/img/securitygroups/4securitygroups-stackbillcloudmanagementportal.png" width="100%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-cloud-management-portal-security-group-successfull.png" width="100%" />
 
 :::success
 **- Now the security group has been created successfully.**
@@ -150,36 +151,36 @@ sidebar_label: Basic Network
 
 -   click on the **Network** dropdown below the virtual Resources icon, which is available in the top left corner. From the dropdown, click on **Basic Network**, **to Configure Port Forwarding**
 
-<img src="/img/securitygroups/PortForwarding1- StackBillCloudManagementPortal.png" width="60%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/Stackbill-cloud-management-portal-basic-compute-network.png" width="60%" />
 
 - **Basic Network**Screen appears.
 - Click on the **network** in which you wish to configure port forwarding.
 
-<img src="/img/securitygroups/PortForwarding2- StackBillCloudManagementPortal.png" width="100%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-cloud-management-portal-compute-basic-network.png" width="100%" />
 
 - Network details screen appears, Select the **public IP** section from the details screen.
 
-<img src="/img/securitygroups/PortForwarding3- StackBillCloudManagementPortal (1).png" width="100%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-cloud-management-portal-compute-basic-network-public-ip.png" width="100%" />
 
 - Click on the **Source NAT** option 
 
-<img src="/img/securitygroups/PortForwarding4- StackBillCloudManagementPortal.png" width="100%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-cloud-management-portal-firewall.png" width="100%" />
 
 - IP address screen open.
 - Before configuring Port Forwarding user need to Configure Firewall
 - To Configure the Firewall, click on **Firewall** option and configure it.
 
-<img src="/img/securitygroups/PortForwarding5- StackBillCloudManagementPortal.png" width="100%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-cloud-management-portal-port-forwarding-add-vm.png" width="100%" />
 
 - Once the firewall has been configured go to the **Port Forwarding** option.
 - Click on **Add VM**.
 
-<img src="/img/securitygroups/PortForwarding6- StackBillCloudManagementPortal.png" width="100%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-cloud-management-portal-add-vm-config.png" width="100%" />
 
 - Configure the required port and select the protocol
 - Finally Click on **Add VM & Configure**.
 
-<img src="/img/securitygroups/PortForwarding7- StackBillCloudManagementPortal.png" width="100%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-cloud-management-portal-port-forwarding-success.png" width="100%" />
 
 - Now the Port Forwarding has been configured successfully.
 
@@ -188,24 +189,24 @@ sidebar_label: Basic Network
 
 - **Egress rule** will be used to allow your virtual instance to access outside network i.e. **Internet**.
 
-<img src="/img/securitygroups/1egressrule-stackbillcloudmanagementportal.png" width="100%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-cloud-management-portal-egress-rule.png" width="100%" />
 
 - Click on the particular **security group in which the egress rule should be created**.
 
-<img src="/img/securitygroups/2egressrule-stackbillcloudmanagementportal.png" width="100%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-cloud-management-portal-egress-add-rule.png" width="100%" />
 
 
 - **Now egress rule creating menu appears.**
 - The user can see an option called **Add rule** on the right side of the panel.
 - Click on it.
 
-<img src="/img/securitygroups/4egressrule-stackbillcloudmanagementportal.png" width="80%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-cloud-management-portal-egress-add-protocol-rule.png" width="80%" />
 
 - Select the **protocol** as per the wish.
 - Specify the **start and end port number.**
 - Finally, Click on **Add rule** button.
 
-<img src="/img/securitygroups/5egressrule-stackbillcloudmanagementportal.png" width="100%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-cloud-management-portal-egress-successfull.png" width="100%" />
 
 :::success
 - Now the Egress rule has been created successfully.
@@ -217,17 +218,17 @@ sidebar_label: Basic Network
 
 ## Acquiring new public IP address
 
-<img src="/img/IP-manager/1ipmanager-stackbillcloudmanagementportal.png" width="100%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-cloud-management-portal-ip-manager.png" width="100%" />
 
 
 - Click on the **Network** dropdown button below the compute icon, Which is available in the top left corner. from the dropdown, Click on **Ip Manager** option.
 
-<img src="/img/IP-manager/2ipmanager-stackbillcloudmanagementportal.png" width="100%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-cloud-management-portal-ip-acquire.png" width="100%" />
 
 - **IP manager** screen appears.
 - Click on **Acquire New Public IP** option.
 
-<img src="/img/IP-manager/3ipmanager-stackbillcloudmanagementportal.png" width="70%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-cloud-management-portal-ip-acquire-form.png" width="70%" />
 
 - **Choose your Network** - To acquire a public IP address, choose the network. 
 
@@ -235,7 +236,7 @@ sidebar_label: Basic Network
 **The loadbalancer and port forwarding features can be enabled by disabling static NAT while acquiring a new public IP address.**
 ::: 
 
-<img src="/img/IP-manager/4ipmanager-stackbillcloudmanagementportal.png" width="70%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-cloud-management-portal-ip-acquire-attach-vm.png" width="70%" />
 
 :::note
 **The loadbalancer and port forwarding features can be disabled by enabling static NAT while acquiring a new public IP address.**
@@ -249,22 +250,22 @@ sidebar_label: Basic Network
 
 - Finally click on the **Acquire** button.
 
-<img src="/img/IP-manager/5ipmanager-stackbillcloudmanagementportal.png" width="100%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-cloud-management-portal-ip-successfull.png" width="100%" />
 
 - Now the **IP adress** has been created successfully.
 
 ## Releasing public IP address
 
-<img src="/img/IP-manager/1releaseipmanager-stackbillcloudmanagement.png" width="100%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-cloud-management-portal-release-public-ip.png" width="100%" />
 
 - To Release a Public IP, click on the **release icon** which is available on the **Action menu.**
 - You will get a confirmation notification on the portal once you click on it.
 
-<img src="/img/IP-manager/2releaseipmanager-stackbillcloudmanagement.png" width="80%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-cloud-management-portal-release-ip-confirmation.png" width="80%" />
 
 - To release the IP address, click OK.
 
-<img src="/img/IP-manager/3releaseipmanager-stackbillcloudmanagement.png" width="100%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-cloud-management-portal-release-ip-confirmation-successfull.png" width="100%" />
 
 - Now your **IP** has **removed** successfully.
 
@@ -297,38 +298,38 @@ VPC (Virtual Private Cloud) is a networking feature in cloud control panel, that
  - Login into your  control panel.
  - Go to Network and click on VPC.
  
- <img src="/img/vpc/Image-1.JPG" width="50%" />
+ <img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-vpc.JPG" width="50%" />
  
  - Then click on Add VPC.
 
-<img src="/img/vpc/Image-2.JPG" width="100%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-add-vpc.JPG" width="100%" />
 
  - Provide name, description,  and specify the IP address range for the VPC in CIDR notation (e.g., 10.0.0.0/16). This range should not overlap with other networks in your stackbill environment. Also, Choose the appropriate VPC offering that defines the specifications and capabilities of the VPC. Then click on Add button.
-<img src="/img/vpc/Image-3.JPG" width="100%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-add-vpc-details.JPG" width="100%" />
 
  - VPC created successfully.
 
-<img src="/img/vpc/Image-4.JPG" width="100%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-vpc-created-successfully.JPG" width="100%" />
 
 **ADDING YOUR VPC TIER NETWORK**
 
  - After creating your VPC network, click on configure button.
 
-<img src="/img/vpc/Image-5.JPG" width="100%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-vpc-tier.JPG" width="100%" />
 
  - Then click on create network.
 
-<img src="/img/vpc/Image-6.JPG" width="100%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-vpc-tier-create-network.JPG" width="100%" />
 
  - Specify the name for your tier (e.g., "DMZ," "App," etc.)
  - Select the appropriate ACL to allow (or) deny of your network access.
  - Then provide the gateway, network mask and select the network offering for your tier and click on Add button.
 
-<img src="/img/vpc/Image-7.JPG" width="90%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-vpc-new-tier.JPG" width="90%" />
 
  - your new tier network has been created successfully.
 
-<img src="/img/vpc/Image-8.JPG" width="90%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-vpc-new-tier-details.JPG" width="90%" />
 
 **ADDING VIRTUAL MACHINES**
 
@@ -336,17 +337,17 @@ VPC (Virtual Private Cloud) is a networking feature in cloud control panel, that
  - Then click on Add instance.
  - **[Steps to create intsance](/docs/user-guide/virtual-resources/Instance#quick-deploy-in-stackbill-cmp)**
 
-<img src="/img/vpc/Image-10.JPG" width="100%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-cloud-management-portal-vm-screen.JPG" width="100%" />
 
  - while creating the VM, make sure that you have selected your VPC tier under network list.
 
-<img src="/img/vpc/Image-11.JPG" width="100%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-cloud-management-portal-choose-network.JPG" width="100%" />
 
 ** VPC to VPC VPN configuration in stackbill **
 
  - To explain the VPC to VPC VPN, please check the below image for demonstration purpose.
 
-<img src="/img/vpc/vpc-cloudmanagementportal.jpg" width="80%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/vpc-stackbill-cloud-management-portal.jpg" width="80%" />
 
 **VPN gateway** - The VPN gateway is the term used for the local VPN endpoint. This is simply enabled on the source-NAT IP address of the VPC virtual router – and it allows the local VR to accept incoming VPN connections.
 
@@ -371,19 +372,19 @@ Please note for both of these connections the resources either end must be reach
 - Login into the cloud control panel.
 - Then click on network and select VPN Gateway.
 
-<img src="/img/vpc/Image-13.JPG" width="40%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-vpn.JPG" width="40%" />
 
 - Then click on ADD VPN button.
 
-<img src="/img/vpc/Image-14.JPG" width="80%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-add-vpn.JPG" width="80%" />
 
 - In this example we assume that VMs on both VPC1 tier 1 and 2 will consume resources on VPC2. Please note in this case we only configure the name, public gateway, CIDR list and the IPsec preshared key, all other fields are left as defaults.
 
-<img src="/img/vpc/Image-15.JPG" width="80%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-add-vpn-details.JPG" width="80%" />
 
 - Repeat this step for the customer gateway on VPC2:
 
-<img src="/img/vpc/Image-16.JPG" width="80%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-add-vpn-customer-gateway.JPG" width="80%" />
 
 **Enable Site-to-Site VPN**
 
@@ -393,33 +394,33 @@ Please note for both of these connections the resources either end must be reach
 - Then click on configure.
 - Click on Site to Site VPN list menu.
 
-<img src="/img/vpc/Image-17.JPG" width="80%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-site-site-vpn.JPG" width="80%" />
 
 - Click OK to confirm the creation.
 
-<img src="/img/vpc/Image-18.JPG" width="80%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-site-site-vpn-confirmation.JPG" width="80%" />
 
 - Once the Site to site VPN enabled, then click on the VPN connection tab. Click on Add button.
 
-<img src="/img/vpc/Image-19.JPG" width="80%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/site-to-site-vpn.JPG" width="80%" />
 
 - Then select the VPN gateway from the drop-down list and click on OK.
 
-<img src="/img/vpc/Image-20.JPG" width="80%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-custom-gateway-select.JPG" width="80%" />
 
 - Repeat this step for the passive connection from VPC2 to VPC1, but for this one tick the “passive” tick box.
 
 - Once both VPN connection have been configured refresh the screen and ensure the VPN connection state is “connected”.
 - If the VPN connection doesn’t come up automatically simply go back to the active connection (from VPC1 to VPC2) and click the “Reset" button.
 
-<img src="/img/vpc/Image-21.JPG" width="80%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-vpn-reset.JPG" width="80%" />
 
 ## Overview of Load Balancer in Stackbill Cloud Management Portal.
 
 A **load balancer** can be deployed as **software or hardware** to a device that **distributes connections** from clients between a set of servers. A load balancer acts as a ‘**reverse-proxy**’ to represent the application servers to the client through a virtual IP address (VIP). This technology is known as **server load balancing (SLB)**. SLB is designed for pools of application servers within a single site or local area network (LAN).
 
 
-<img src="/img/loadbalancer/Loadbalancer-StackBillCloudManagamentPortal.png" width="50%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-cloud-management-portal-load-balancer.png" width="50%" />
 
 
 ### Add a load balancer to an instance in StackBill Cloud Management Portal.
@@ -428,22 +429,22 @@ A **load balancer** can be deployed as **software or hardware** to a device that
 -   Click on the  **Network**  dropdown button below the **Compute icon**, Which is available in the top left corner. from the dropdown, Click on  **Load Balancer**, to create a new Load Balancer.
 - **Load balancer** screen appears.
 
-<img src="/img/loadbalancer/1Loadbalancer-StackBillCloudManagementPortal.png" width="90%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-loadbalancer.png" width="90%" />
 
 
 - On the right side of the panel you can see a option called **Create Load Balancer** option, Click on it.
 
-<img src="/img/loadbalancer/2Loadbalancer-StackBillCloudManagementPortal.png" width="90%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-create-loadbalancer.png" width="90%" />
 
 - **Add Load Balancer** option appears on the screen.
 
 
-<img src="/img/loadbalancer/3Loadbalancer-StackBillCloudManagementPortal.png" width="90%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-create-loadbalancer-name.png" width="90%" />
 
 - As a first step enter a **name and description** for the load balancer that you create.
 
 
-<img src="/img/loadbalancer/4Loadbalancer-StackBillCloudManagementPortal.png" width="90%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-create-loadbalancer-choose-allocated-resources.png" width="90%" />
 
 **Network & IP Address**
 -  Here you select the network and IP address for the Load Balancer.
@@ -451,24 +452,24 @@ A **load balancer** can be deployed as **software or hardware** to a device that
 - **Policy name** - Give a Policy name.
 - Select the protocol and assign a Port number for both load balancer and instance. 
 
-<img src="/img/loadbalancer/5Loadbalancer-StackBillCloudManagementPortal.png" width="90%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-create-loadbalancer-choose-algorithm.png" width="90%" />
 
 **Choose Algorithm and Sticky Sessions**
 - Choose your Load Balancer algorithm for the traffic distribution.
 - Select the sticky session as per the requirement.
 
-<img src="/img/loadbalancer/6Loadbalancer-StackBillCloudManagementPortal.png" width="90%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-create-loadbalancer-save-policy.png" width="90%" />
 
 **Attach Instance**
 
 - Attach the policy to the required instance and click **Save policy** button in the below.
 
-<img src="/img/loadbalancer/7Loadbalancer-StackBillCloudManagementPortal.png" width="90%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-create-loadbalancer-policy-created-successfull.png" width="90%" />
 
 - Now the **Load balancer Policy** has been created successfully.
 - Once the policy has been created successfully click on **Create Load Balancer** button which available on the below.
 
-<img src="/img/loadbalancer/8Loadbalancer-StackBillCloudManagementPortal.png" width="90%" />
+<img alt="Stackbill Cloud Billing Software" src="/user-guide/network/basic-network/stackbill-create-loadbalancer-rule.png" width="90%" />
 
 - The **load balancer has been successfully configured on the instance.**
 - It is now possible to view the created policy on the Loadbalancer dashboard.

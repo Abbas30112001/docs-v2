@@ -1,6 +1,7 @@
 ---
 title: Introduction
 sidebar_label: Introduction
+sidebar_position: 1
 ---
 
 **StackBill** VM (Virtual Machine) snapshot is a point-in-time copy of a virtual machine's disk file and memory state. It allows users to capture the state of a virtual machine at a particular moment, which can be useful for a variety of purposes, such as backup, disaster recovery, testing, and troubleshooting.

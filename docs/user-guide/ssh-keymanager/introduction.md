@@ -1,6 +1,7 @@
 ---
 title: Introduction
 sidebar_label: Introduction
+sidebar_position: 1
 ---
 
 Authentication with SSH keys is more secure and easier to manage than with passwords. In contrast to passwords, SSH keys are not vulnerable to brute-force attacks and can be easily revoked or replaced.
