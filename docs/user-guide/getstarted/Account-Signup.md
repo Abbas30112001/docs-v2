@@ -7,7 +7,6 @@ sidebar_position: 2
 
 # Welcome to Stackbill Documentation
 
-
 [**StackBill**](https://www.youtube.com/watch?v=nyV8oE3dfXs&t=1s) portal offers a simple and intuitive web-based user interface, [**StackBill CMP**](https://www.stackbill.com/stackbill-overview.html#compute) allows you to
 
 - **Manage to compute resources** - Easily access and manage your virtual instances, Load Balancer, and Kubernetes.
